@@ -1,0 +1,19 @@
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 80pt;
+}
+#nomeR{
+    color: black;
+    text-decoration: none;
+}
+#img.icone{
+    width: 20pt;
+    height: 50pt;
+    border-radius: 80pt;
+}
+.icones{
+    width: 20pt;
+    height: 20pt;
+    top: 50pt;
+}

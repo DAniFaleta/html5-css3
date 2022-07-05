@@ -1,0 +1,58 @@
+body {
+    background-color: rgba(74, 130, 235, 0.616);
+    font: normal 18px bold;
+}
+
+.title {
+    text-align: center;
+    color: black;
+    background-color: white;
+
+}
+
+.subtitle {
+    text-indent: 16px;
+    padding: 20px;
+}
+
+.texto1 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+}
+
+.texto2 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+}
+
+.texto3 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+}
+
+p{
+    text-indent: 23px;
+}
+
+.botaoscroolTO {
+    width: 25px;
+    height: 25px;
+    border-radius: 25px;
+    padding: 2px;
+    background-color: rgb(0, 0, 0);
+    right: 20px;
+    bottom: 20px;
+    position: fixed;
+    z-index: 999;
+    cursor: pointer;
+    display: none; 
+}
+
+.local-FT{
+    width: 199vh;
+    height: 600px;
+    background-color: rgba(0, 0, 0, 0.2);
+}

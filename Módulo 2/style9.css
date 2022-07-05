@@ -1,0 +1,33 @@
+body {
+    font: normal 16px arial, bold;
+    text-align: left;
+}
+
+#title {
+    text-align: center;
+    background-color: green;
+    color: white;
+    padding: 20px;
+    
+}
+h2 {
+    text-indent: 30px;
+    padding: 5px;
+}
+#texto1 {
+    color: lime;
+    text-align: center;
+    background-color: black;
+    padding: 3px;
+    margin: auto;
+}
+#texto2 {
+    color: lime;
+    text-align: center;
+    background-color: black;
+    padding: 3px;
+    margin: auto;
+}
+p{
+    text-indent: 15px;
+}
