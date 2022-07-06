@@ -3,4 +3,4 @@
 
  Estou aprendendo a criar sit  es e agora vou gerenciar meus repositórios! 
 
-<a href="https://danifaleta.github.io/html5-css3/modulo2/index11.html"> executar exercício 11<a>
+<a href="https://danifaleta.github.io/html5-css3/módulo2/index11.html"> executar exercício 11<a>
